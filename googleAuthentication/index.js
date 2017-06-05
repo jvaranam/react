@@ -29,10 +29,10 @@ class App extends Component {
             < img src = { logo }
             className = "App-logo"
             alt = "logo" / >
-            < h2 > Welcome to IO - Media Virtual Venue VR QC Tool v .0 .0 .1 < /h2> < /div > < div className = "App-intro"
+            < h2 > Welcome to Tool v .0 .0 .1 < /h2> < /div > < div className = "App-intro"
             id = "login" >
-            < GoogleLogin clientId = "896021468508-1ktndsomsnev4chqpg6578mufmeomumf.apps.googleusercontent.com"
-            buttonText = "Login" hd="io-media.com"
+            < GoogleLogin clientId = "######-sdfasd23423fgfsf.apps.googleusercontent.com"
+            buttonText = "Login" hd="domain name.com"
             onSuccess = { responseGoogle }
             onFailure = { responseGoogle }
             hostedDomain= "io-media.com"
