@@ -148,9 +148,3 @@ npm run test:watch
 npm run bundle
 ```
 ###### Reference Sites : https://raw.githubusercontent.com/anthonyjgrove/react-google-login
-
-##### Checkout my other login: [React Instagram Login](https://github.com/anthonyjgrove/react-instagram-login)
-
-##### Checkout keppelen's [React Facebook Login](https://github.com/keppelen/react-facebook-login)
-
-### Follow me on Twitter: [@anthonyjgrove](https://twitter.com/anthonyjgrove)
